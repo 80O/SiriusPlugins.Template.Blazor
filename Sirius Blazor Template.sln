@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hosting", "Hosting\Hosting.csproj", "{F12F3F41-DFD6-4A6A-B856-3ADDC46C265E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sirius.Plugin.BlazorServerApp", "Sirius.Plugin.BlazorServerApp\Sirius.Plugin.BlazorServerApp.csproj", "{BE682E5F-6323-4705-AF05-5B58AD947273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F12F3F41-DFD6-4A6A-B856-3ADDC46C265E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12F3F41-DFD6-4A6A-B856-3ADDC46C265E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12F3F41-DFD6-4A6A-B856-3ADDC46C265E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12F3F41-DFD6-4A6A-B856-3ADDC46C265E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE682E5F-6323-4705-AF05-5B58AD947273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE682E5F-6323-4705-AF05-5B58AD947273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE682E5F-6323-4705-AF05-5B58AD947273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE682E5F-6323-4705-AF05-5B58AD947273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B7A7814-EFE4-499A-ACF5-EB50AFCAA4EA}
+	EndGlobalSection
+EndGlobal
